@@ -155,3 +155,40 @@ Sure! Here are 50 basic but logically challenging Python programs to practice fo
     Write a program to implement a stack using a list.
 
 These programs will help you understand fundamental programming concepts and improve your problem-solving skills. Happy coding!
+
+
+# Programs list to practice Strings and print functions day 1 or lecture
+
+Sure! Here are 10 practice programs for you to work on:
+
+### Practice Programs
+
+1. **User Information**
+   - Ask the user for their name, age, and favorite color. Display a message that includes all this information.
+
+2. **Full Name Separator**
+   - Take the user's full name and separate it into first and last name. If the user enters more than two names, consider only the first and last names.
+
+3. **Reverse Name**
+   - Take the user's full name and print it in reverse order (last name first).
+
+4. **Sentence Capitalizer**
+   - Take a sentence from the user and return it with each word capitalized.
+
+5. **Personalized Greeting**
+   - Ask the user for their first name, last name, and hometown, and print a personalized greeting.
+
+6. **Email Formatter**
+   - Ask the user for their first name and last name, and then generate an email address in the format `firstname.lastname@example.com`.
+
+7. **Initials Extractor**
+   - Take the user's full name and extract the initials.
+
+8. **Name Length Checker**
+   - Ask the user for their full name and display the number of characters in the full name (excluding spaces).
+
+9. **Username Generator**
+   - Generate a username for the user by asking for their first name, last name, and a random number, and then combining these elements.
+
+10. **Phone Number Formatter**
+    - Ask the user for a 10-digit phone number and format it as (XXX) XXX-XXXX.
