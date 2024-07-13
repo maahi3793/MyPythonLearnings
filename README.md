@@ -6,19 +6,19 @@ Sure! Here are 50 basic but logically challenging Python programs to practice fo
 
 1. **Hello World**:
    Write a program to print "Hello, World!".
-
+done
 2. **Odd or Even**:
    Write a program that asks the user for a number and prints whether it is odd or even.
-
+done
 3. **Leap Year**:
    Write a program to check if a year is a leap year or not.
-
+done
 4. **Prime Number**:
    Write a program to check if a number is prime or not.
-
+done
 5. **Factorial**:
    Write a program to compute the factorial of a number.
-
+done
 6. **Fibonacci Sequence**:
    Write a program to print the first n numbers of the Fibonacci sequence.
 
