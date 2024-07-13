@@ -21,10 +21,10 @@ done
 done
 6. **Fibonacci Sequence**:
    Write a program to print the first n numbers of the Fibonacci sequence.
-
+done
 7. **Sum of Digits**:
    Write a program to find the sum of the digits of a number.
-
+done
 8. **Reverse a String**:
    Write a program to reverse a string.
 
